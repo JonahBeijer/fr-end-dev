@@ -1,0 +1,70 @@
+header {
+    
+ text-align: left;
+ background-color: #4A5468;
+ padding: 10px;
+ border: 1px solid black;
+
+} 
+
+nav a{
+   
+    text-decoration: none;
+    color: white;
+
+}
+
+body  {
+    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: black;
+
+}
+ 
+.foto {
+    
+    border-radius: 500px;
+    border: 1px solid black;
+    width: 150px;
+    background-color: black;
+
+}
+
+.eerste{
+    
+ background-color: #737c90; 
+ padding: 10px;
+ margin: 0px;
+
+} 
+
+.tweede{
+    
+ background-color: #FFFFFF;
+ padding: 10px;
+ margin: 0px;
+
+}
+
+.derde{
+    
+    background-color: #A0ABC0;
+    padding: 10px;
+    text-align: right;
+}
+
+.vierde{
+    
+    background-color: #E2E7F0;
+    padding: 10px; 
+
+}
+
+footer {
+    
+    text-align: center;
+    font-size: 15px; 
+    color: #FFFFFF; 
+    background-color: #4A5468;
+
+}

@@ -1,0 +1,73 @@
+body, h1, h2, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ffffff;
+    color: black;
+    padding: 10px 0;
+}
+
+nav ul {
+    list-style-type: none;
+    text-align: left;
+    padding-left: 200px;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+nav a:hover {background-color: black;
+color: #ffffff;}
+
+.inleiding{background-color: #3498db;
+font-size: 50px;}
+
+main {
+    
+    padding-left: 200px;
+    padding-right: 200px;
+}
+
+.inleiding{padding-left: 20px;}
+
+.recipe-container {
+    display: flex;
+    justify-content: right;
+}
+
+.recipe {
+    width: 500px;
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 20px;
+    justify-content: left;
+    
+}
+
+h2{text-align: left;
+    padding-left: 25px;
+padding-top: 50px;}
+
+.carrot{
+    width: 150px;
+padding-left: 350px;
+padding-bottom: 100px;
+}
+
+    
+    
+
+
